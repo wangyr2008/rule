@@ -9,3 +9,8 @@ https://gh-proxy.com/https://raw.githubusercontent.com/xream/scripts/main/surge/
 ```
 https://gh-proxy.com/https://raw.githubusercontent.com/wangyr2008/rule/refs/heads/main/config/singbox/1.14X/substore-singbox-private-doh.js#doh=https%3A%2F%2Fdns-resolve.nowhere-backend.xyz%2Fdns-query%2Fa9e09e225e08d7caa10001ac
 ```
+## mac 地址过滤配置脚本
+
+```
+https://gh-proxy.com/https://raw.githubusercontent.com/wangyr2008/rule/refs/heads/main/config/singbox/1.14X/5-linux-mac.js#mac1=aa:bb:cc:dd:ee:ff&mac2=11:22:33:44:55:66
+```
